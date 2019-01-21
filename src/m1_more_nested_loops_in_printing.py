@@ -276,7 +276,7 @@ def run_test_numbers_constant_backwards():
 
     print('Test 4 of numbers_constant_backwards: (7, 3, 4)')
     numbers_constant_backwards(7, 3, 4)
- 
+
 
 def numbers_constant_backwards(r, maxnum, n):
     """
