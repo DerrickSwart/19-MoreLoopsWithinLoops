@@ -121,7 +121,7 @@ def run_test_largest_negative_number():
 
     # test 3
     expected = -2012
-    actual = largest_negative_number(([-100002, 0.2, 4], [], [421,-2012, 421], [2,4,3,2,1,]))
+    actual = largest_negative_number(([-100002, 0.2, 4], [], [421,-2012, 421], [2, 4, 3, 2, 1 ]))
     print('expected', expected)
     print('actual  ', actual)
 
